@@ -5,7 +5,7 @@ import uuid
 # ============================================
 # CONFIG - Yahan apna n8n webhook URL dalein
 # ============================================
-N8N_WEBHOOK_URL = "https://murshad123456.app.n8n.cloud/webhook/weather-chat"
+N8N_WEBHOOK_URL ="https://murshad123456.app.n8n.cloud/webhook/weather-chat"
 
 st.set_page_config(page_title="Weather Chatbot", page_icon="🌤️", layout="centered")
 
